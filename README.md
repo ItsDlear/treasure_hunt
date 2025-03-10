@@ -44,4 +44,6 @@ The official rulebook can be found [here](https://s3.amazonaws.com/geekdo-files.
 
 ## Basic Entities
 
-[Game Entity Diagram](https://app.diagrams.net/#G1n3Qmm5_TNAr4qJunv2p0TMi7zO3t1ne2#%7B%22pageId%22%3A%22bs2XWfqp56Sr83UUAT6_%22%7D)  
+Here you can find the first draft of the internal structure
+
+![MetaStructure.drawio.png](MetaStructure.drawio.png)
